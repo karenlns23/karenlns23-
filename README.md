@@ -12,8 +12,8 @@ Vengo del análisis de datos científicos y epidemiológicos, y estoy transicion
 - Análisis de datos con Python, SQL y R
 
 ## 📂 Repositorios destacados
-🔍 [portafolio-qa](enlace-a-tu-repo) — casos de prueba, reportes de bugs y pruebas de API de mis proyectos de TripleTen
-#📊 [análisis-de-datos](enlace-a-tu-repo) — proyectos de CoderHouse y del Bootcamp MINTIC/Universidad de Caldas
+-🔍 [portafolio-qa](enlace-a-tu-repo) — casos de prueba, reportes de bugs y pruebas de API de mis proyectos de TripleTen
+-📊 [análisis-de-datos](enlace-a-tu-repo) — proyectos de CoderHouse y del Bootcamp MINTIC/Universidad de Caldas
 
 ## 📫 Contacto
 - LinkedIn: [linkedin.com/in/karen-l-norena](https://www.linkedin.com/in/karen-l-norena)
